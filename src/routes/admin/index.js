@@ -1,7 +1,7 @@
 import { h } from 'preact';
 import { useState, useEffect } from 'preact/hooks';
 import style from './style.css';
-import GoogleScholarScraper from '/routes/google-scholar-scraper';
+import GoogleScholarScraper from '../../routes/google-scholar-scraper';
 
 const Admin = () => {
     const [isAuthenticated, setIsAuthenticated] = useState(false);
