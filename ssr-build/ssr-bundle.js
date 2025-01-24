@@ -312,28 +312,25 @@ var match = __webpack_require__("ox/y");
 
 
 
-var header_Header = function Header() {
+var header_Header = function Header(_ref) {
+  var basePath = _ref.basePath;
   return Object(external_preact_["h"])("header", {
     class: style.header
-  }, Object(external_preact_["h"])("div", {
-    class: style.logoContainer
-  }, Object(external_preact_["h"])("h1", {
-    class: style.logoText
-  }, "Diana Pamela Moya Osorio")), Object(external_preact_["h"])("nav", null, Object(external_preact_["h"])(match["Link"], {
+  }, Object(external_preact_["h"])("h1", null, "Diana Pamela Moya Osorio"), Object(external_preact_["h"])("nav", null, Object(external_preact_["h"])(match["Link"], {
     activeClassName: style.active,
-    href: "/"
+    href: "".concat(basePath, "/")
   }, "Home"), Object(external_preact_["h"])(match["Link"], {
     activeClassName: style.active,
-    href: "/research"
+    href: "".concat(basePath, "/research")
   }, "Research"), Object(external_preact_["h"])(match["Link"], {
     activeClassName: style.active,
-    href: "/publications"
+    href: "".concat(basePath, "/publications")
   }, "Publications"), Object(external_preact_["h"])(match["Link"], {
     activeClassName: style.active,
-    href: "/teaching"
+    href: "".concat(basePath, "/teaching")
   }, "Teaching"), Object(external_preact_["h"])(match["Link"], {
     activeClassName: style.active,
-    href: "/contact"
+    href: "".concat(basePath, "/contact")
   }, "Contact")));
 };
 /* harmony default export */ var header = (header_Header);
@@ -344,6 +341,7 @@ var header_Header = function Header() {
 
 
 var home_Home = function Home() {
+  var basePath = window.location.hostname.includes("github.io") ? "/dianamoyaosorio.github.io" : "";
   return Object(external_preact_["h"])("div", {
     class: home_style.home
   }, Object(external_preact_["h"])("main", {
@@ -353,17 +351,17 @@ var home_Home = function Home() {
   }, Object(external_preact_["h"])("div", {
     class: home_style.profileSection
   }, Object(external_preact_["h"])("img", {
-    src: "/assets/Diana6Gflagship.jpg",
+    src: "".concat(basePath, "/assets/Diana6Gflagship.jpg"),
     alt: "Diana Moya",
     class: home_style.profilePicture
   }), Object(external_preact_["h"])("div", {
     class: home_style.profileButtons
   }, Object(external_preact_["h"])("a", {
-    href: "https://www.google.com/url?q=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fdiana-pamela-moya-osorio-508a9b172&sa=D&sntz=1&usg=AOvVaw0KFpAfx4GYVNrYhr4Y0VYo",
+    href: "https://www.linkedin.com/in/diana-pamela-moya-osorio-508a9b172",
     class: home_style.roundButton,
     "aria-label": "LinkedIn"
   }, Object(external_preact_["h"])("img", {
-    src: "/assets/LI-In-Bug.png?height=24&width=24",
+    src: "".concat(basePath, "/assets/LI-In-Bug.png"),
     alt: "LinkedIn",
     class: home_style.buttonIcon
   })), Object(external_preact_["h"])("a", {
@@ -371,7 +369,7 @@ var home_Home = function Home() {
     class: home_style.roundButton,
     "aria-label": "Google Scholar"
   }, Object(external_preact_["h"])("img", {
-    src: "/assets/Scholar_logo.svg?height=24&width=24",
+    src: "".concat(basePath, "/assets/Scholar_logo.svg"),
     alt: "Google Scholar",
     class: home_style.buttonIcon
   })), Object(external_preact_["h"])("a", {
@@ -379,7 +377,7 @@ var home_Home = function Home() {
     class: home_style.roundButton,
     "aria-label": "Elliit"
   }, Object(external_preact_["h"])("img", {
-    src: "/assets/Untitled.png?height=24&width=24",
+    src: "".concat(basePath, "/assets/Untitled.png"),
     alt: "Elliit",
     class: home_style.buttonIcon
   })))), Object(external_preact_["h"])("div", {
@@ -393,12 +391,12 @@ var home_Home = function Home() {
   }, Object(external_preact_["h"])(home_ResearchHighlight, {
     title: "Physical layer security and privacy (PLS)",
     description: "Physical Layer Security is a security approach that operates directly on wireless signals, leveraging the unique characteristics of the propagation channel and hardware as sources of entropy to ensure confidentiality, integrity, and authentication.",
-    imageUrl: "/assets/pls.jpg",
+    imageUrl: "".concat(basePath, "/assets/pls.jpg"),
     link: "https://liu.se/en/research/physical-layer-security-in-massive-mimo"
   }), Object(external_preact_["h"])(home_ResearchHighlight, {
     title: "Integrated Sensing and Communications (ISAC)",
     description: "One of the most promising features that will be integral part of the next generation of wireless mobile networks, 6G, is the integration of sensing functionality.",
-    imageUrl: "/assets/isac.jpg",
+    imageUrl: "".concat(basePath, "/assets/isac.jpg"),
     link: "https://liu.se/en/research/isac"
   }))))), Object(external_preact_["h"])("footer", {
     class: home_style.footer
@@ -415,7 +413,7 @@ var home_ResearchHighlight = function ResearchHighlight(_ref) {
     target: "_blank",
     rel: "noopener noreferrer"
   }, Object(external_preact_["h"])("img", {
-    src: imageUrl,
+    src: imageUrl || "/placeholder.svg",
     alt: title,
     class: home_style.highlightImage
   }), Object(external_preact_["h"])("h3", null, title), Object(external_preact_["h"])("p", null, description));
@@ -823,13 +821,14 @@ var app_App = function App() {
     basePath = _useState2[0],
     setBasePath = _useState2[1];
   y(function () {
-    // Check if we're running on GitHub Pages
     var isGitHubPages = window.location.hostname.includes("github.io");
     setBasePath(isGitHubPages ? "/dianamoyaosorio.github.io" : "");
   }, []);
   return Object(external_preact_["h"])("div", {
     id: "app"
-  }, Object(external_preact_["h"])(header, null), Object(external_preact_["h"])("main", null, Object(external_preact_["h"])(preact_router_es["Router"], null, Object(external_preact_["h"])(home, {
+  }, Object(external_preact_["h"])(header, {
+    basePath: basePath
+  }), Object(external_preact_["h"])("main", null, Object(external_preact_["h"])(preact_router_es["Router"], null, Object(external_preact_["h"])(home, {
     path: "".concat(basePath, "/")
   }), Object(external_preact_["h"])(research, {
     path: "".concat(basePath, "/research")
