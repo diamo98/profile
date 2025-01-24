@@ -1,11 +1,13 @@
 .research {
   max-width: 800px;
+  width: 100%;
   margin: 0 auto;
   padding: 80px 20px 20px 20px;
   font-family: Arial, sans-serif;
   display: grid;
   grid-template-rows: auto auto 1fr;
   min-height: calc(100vh - 80px);
+  box-sizing: border-box;
 }
 
 .research h1 {
@@ -17,6 +19,7 @@
 
 .tabs {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: 20px;
   gap: 10px;
@@ -32,7 +35,7 @@
   cursor: pointer;
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
   flex-grow: 1;
-  flex-basis: 0;
+  flex-basis: calc(33.333% - 10px);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -66,7 +69,7 @@
 }
 
 .content > div {
-  min-width: 100%;
+  width: 100%;
 }
 
 .content h2 {
@@ -106,7 +109,8 @@
 .filterGroup {
   display: flex;
   flex-direction: column;
-  flex-grow: 1;
+  width: 100%;
+  margin-bottom: 15px;
 }
 
 .filterGroup label {
@@ -115,6 +119,7 @@
 }
 
 .filterGroup select {
+  width: 100%;
   padding: 10px;
   font-size: 16px;
   background-color: rgba(0, 0, 0, 0.6);
@@ -129,6 +134,14 @@
   border-color: var(--primary);
   box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
 }
+
+@media (max-width: 600px) {
+  .tabs button {
+    flex-basis: 100%;
+  }
+}
+
+
 
 
 

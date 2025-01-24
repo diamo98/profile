@@ -23,6 +23,7 @@
   display: flex;
   flex-direction: column;
   flex-grow: 1;
+  width: 30%;
 }
 
 .filterGroup label {
@@ -31,6 +32,7 @@
 }
 
 .filterGroup select {
+  width: 100%;
   padding: 10px;
   font-size: 16px;
   background-color: rgba(0, 0, 0, 0.6);
@@ -38,12 +40,29 @@
   border: 1px solid var(--border);
   border-radius: 5px;
   cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.filterGroup select:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+  border-color: var(--primary);
 }
 
 .filterGroup select:focus {
   outline: none;
   border-color: var(--primary);
   box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+  transform: translateY(-1px);
+}
+
+.filterGroup select option {
+  background-color: rgba(0, 0, 0, 0.9);
+  color: var(--text);
+  padding: 10px;
+}
+
+.filterGroup select option:hover {
+  background-color: var(--primary);
 }
 
 .searchContainer {
@@ -122,6 +141,10 @@
   font-style: italic;
   margin-top: 20px;
 }
+
+
+
+
 
 
  
