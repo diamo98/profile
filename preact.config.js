@@ -9,11 +9,14 @@ export default {
       if (config.devServer) {
         config.devServer.historyApiFallback = {
           index: "/index.html",
+          disableDotRule: true,
         }
       }
     },
   ],
 }
+
+
 
 
 

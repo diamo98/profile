@@ -14,14 +14,13 @@ const App = () => {
   const [basePath, setBasePath] = useState("")
 
   useEffect(() => {
-    // Check if we're running on GitHub Pages
     const isGitHubPages = window.location.hostname.includes("github.io")
     setBasePath(isGitHubPages ? "/dianamoyaosorio.github.io" : "")
   }, [])
 
   return (
     <div id="app">
-      <Header />
+      <Header basePath={basePath} />
       <main>
         <Router>
           <Home path={`${basePath}/`} />
@@ -37,6 +36,8 @@ const App = () => {
 }
 
 export default App
+
+
 
 
 
