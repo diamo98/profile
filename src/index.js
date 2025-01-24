@@ -3,5 +3,6 @@ import App from "./components/app"
 import "./style/index.css"
 
 if (typeof window !== "undefined") {
-  render(<App />, document.body)
+  render(<App />, document.getElementById("app") || document.body)
 }
+

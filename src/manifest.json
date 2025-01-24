@@ -1,22 +1,24 @@
 {
 	"name": "Personal Website",
 	"short_name": "Diana Pamela Moya Osorio",
-	"start_url": "/",
+	"start_url": "/dianamoyaosorio.github.io/",
 	"display": "standalone",
 	"orientation": "portrait",
 	"background_color": "#fff",
 	"theme_color": "#673AB7",
 	"icons": [
 	  {
-		"src": "/assets/icons/liu.png",
-		"type": "image/jpeg",
+		"src": "/dianamoyaosorio.github.io/assets/icons/liu.png",
+		"type": "image/png",
 		"sizes": "192x192"
 	  },
 	  {
-		"src": "/assets/icons/liu.png",
-		"type": "image/jpeg",
+		"src": "/dianamoyaosorio.github.io/assets/icons/liu.png",
+		"type": "image/png",
 		"sizes": "512x512"
 	  }
 	]
   }
+  
+  
   
