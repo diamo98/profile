@@ -78,7 +78,7 @@ module.exports =
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/";
+/******/ 	__webpack_require__.p = "/dianamoyaosorio.github.io/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports
@@ -107,125 +107,6 @@ var external_preact_ = __webpack_require__("HteQ");
 // EXTERNAL MODULE: ../node_modules/preact-router/dist/preact-router.es.js
 var preact_router_es = __webpack_require__("Y3FI");
 
-// EXTERNAL MODULE: ../node_modules/preact-router/match.js
-var match = __webpack_require__("ox/y");
-
-// CONCATENATED MODULE: ./components/header/style.css
-// extracted by mini-css-extract-plugin
-/* harmony default export */ var style = ({"header":"header__OVZyn","logoContainer":"logoContainer__ltY64","logoText":"logoText__WMBBB","active":"active__r+Z6z"});
-// CONCATENATED MODULE: ./components/header/index.js
-
-
-
-var header_Header = function Header() {
-  return Object(external_preact_["h"])("header", {
-    class: style.header
-  }, Object(external_preact_["h"])("div", {
-    class: style.logoContainer
-  }, Object(external_preact_["h"])("h1", {
-    class: style.logoText
-  }, "Diana Pamela Moya Osorio")), Object(external_preact_["h"])("nav", null, Object(external_preact_["h"])(match["Link"], {
-    activeClassName: style.active,
-    href: "/"
-  }, "Home"), Object(external_preact_["h"])(match["Link"], {
-    activeClassName: style.active,
-    href: "/research"
-  }, "Research"), Object(external_preact_["h"])(match["Link"], {
-    activeClassName: style.active,
-    href: "/publications"
-  }, "Publications"), Object(external_preact_["h"])(match["Link"], {
-    activeClassName: style.active,
-    href: "/teaching"
-  }, "Teaching"), Object(external_preact_["h"])(match["Link"], {
-    activeClassName: style.active,
-    href: "/contact"
-  }, "Contact")));
-};
-/* harmony default export */ var header = (header_Header);
-// CONCATENATED MODULE: ./routes/home/style.css
-// extracted by mini-css-extract-plugin
-/* harmony default export */ var home_style = ({"home":"home__uRcqa","main":"main__rhUV2","intro":"intro__AU9Zf","profileSection":"profileSection__jVCDF","profilePicture":"profilePicture__stP5f","profileButtons":"profileButtons__VOEqg","roundButton":"roundButton__kjhuK","buttonIcon":"buttonIcon__VG9YD","buttonText":"buttonText__G4ICD","introText":"introText__TFNqb","highlights":"highlights__EC3cF","highlightWrapper":"highlightWrapper__wK8EA","highlightGrid":"highlightGrid__ZuWHM","highlight":"highlight__Fzp3P","highlightImage":"highlightImage__c7oDY","footer":"footer__S9HD3"});
-// CONCATENATED MODULE: ./routes/home/index.js
-
-
-var home_Home = function Home() {
-  return Object(external_preact_["h"])("div", {
-    class: home_style.home
-  }, Object(external_preact_["h"])("main", {
-    class: home_style.main
-  }, Object(external_preact_["h"])("section", {
-    class: home_style.intro
-  }, Object(external_preact_["h"])("div", {
-    class: home_style.profileSection
-  }, Object(external_preact_["h"])("img", {
-    src: "/assets/Diana6Gflagship.jpg",
-    alt: "Diana Moya",
-    class: home_style.profilePicture
-  }), Object(external_preact_["h"])("div", {
-    class: home_style.profileButtons
-  }, Object(external_preact_["h"])("a", {
-    href: "https://www.google.com/url?q=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fdiana-pamela-moya-osorio-508a9b172&sa=D&sntz=1&usg=AOvVaw0KFpAfx4GYVNrYhr4Y0VYo",
-    class: home_style.roundButton,
-    "aria-label": "LinkedIn"
-  }, Object(external_preact_["h"])("img", {
-    src: "/assets/LI-In-Bug.png?height=24&width=24",
-    alt: "LinkedIn",
-    class: home_style.buttonIcon
-  })), Object(external_preact_["h"])("a", {
-    href: "https://scholar.google.ch/citations?hl=de&user=RgcMUu4AAAAJ&view_op=list_works&sortby=pubdate",
-    class: home_style.roundButton,
-    "aria-label": "Google Scholar"
-  }, Object(external_preact_["h"])("img", {
-    src: "/assets/Scholar_logo.svg?height=24&width=24",
-    alt: "Google Scholar",
-    class: home_style.buttonIcon
-  })), Object(external_preact_["h"])("a", {
-    href: "https://elliit.se/wp-content/uploads/2023/11/ELLIIT_Recruited_Faculty_catalogue_Diana_MoyaOsorio.pdf",
-    class: home_style.roundButton,
-    "aria-label": "Elliit"
-  }, Object(external_preact_["h"])("img", {
-    src: "/assets/Untitled.png?height=24&width=24",
-    alt: "Elliit",
-    class: home_style.buttonIcon
-  })))), Object(external_preact_["h"])("div", {
-    class: home_style.introText
-  }, Object(external_preact_["h"])("h1", null, "Diana Pamela Moya Osorio"), Object(external_preact_["h"])("h2", null, "Associate Professor, Link\xF6ping University"), Object(external_preact_["h"])("p", null, "Diana Pamela Moya Osorio is currently Associate Professor at the Communication Systems Division, Department of Electrical Engineering, Link\xF6ping University, Sweden, and an ELLIIT recruited faculty. Previously, she was Senior Research Fellow and Adjunct Professor at the Centre for Wireless Communications, University of Oulu, Finland. She received the B.Sc. degree in electronics and telecommunications engineering from the Armed Forces University, Ecuador, in 2008, and the M.Sc. and D.Sc. degrees in electrical engineering with emphasis on telecommunications and telematics from the University of Campinas, Brazil, in 2011 and 2015, respectively. From 2015 to 2022, she was an Assistant Professor with the Department of Electrical Engineering, Federal University of S\xE3o Carlos, Brazil. From 2020 to 2023, she was also a Postdoctoral Researcher for the Academy of Finland. She has served as TPC and reviewer for several journals and conferences. Currently, she is Associate Editor of IEEE Wireless Communications Letters, IEEE Communication Letters, and IEEE Transactions on Information Forensics & Security. She also serves as working group leader for Trustworthy 6G at the Cost Action 6G-PHYSEC. Her research interests include wireless communications in general, signal processing for wireless communications, physical layer security, and integrated sensing and communications."))), Object(external_preact_["h"])("section", {
-    class: home_style.highlights
-  }, Object(external_preact_["h"])("h2", null, "Research Highlights"), Object(external_preact_["h"])("div", {
-    class: home_style.highlightWrapper
-  }, Object(external_preact_["h"])("div", {
-    class: home_style.highlightGrid
-  }, Object(external_preact_["h"])(home_ResearchHighlight, {
-    title: "Physical layer security and privacy (PLS)",
-    description: "Physical Layer Security is a security approach that operates directly on wireless signals, leveraging the unique characteristics of the propagation channel and hardware as sources of entropy to ensure confidentiality, integrity, and authentication.",
-    imageUrl: "/assets/pls.jpg",
-    link: "https://liu.se/en/research/physical-layer-security-in-massive-mimo"
-  }), Object(external_preact_["h"])(home_ResearchHighlight, {
-    title: "Integrated Sensing and Communications (ISAC)",
-    description: "One of the most promising features that will be integral part of the next generation of wireless mobile networks, 6G, is the integration of sensing functionality.",
-    imageUrl: "/assets/isac.jpg",
-    link: "https://liu.se/en/research/isac"
-  }))))), Object(external_preact_["h"])("footer", {
-    class: home_style.footer
-  }, Object(external_preact_["h"])("p", null, "\xA9 2025 Diana Moya. All rights reserved.")));
-};
-var home_ResearchHighlight = function ResearchHighlight(_ref) {
-  var title = _ref.title,
-    description = _ref.description,
-    imageUrl = _ref.imageUrl,
-    link = _ref.link;
-  return Object(external_preact_["h"])("a", {
-    href: link,
-    class: home_style.highlight,
-    target: "_blank",
-    rel: "noopener noreferrer"
-  }, Object(external_preact_["h"])("img", {
-    src: imageUrl,
-    alt: title,
-    class: home_style.highlightImage
-  }), Object(external_preact_["h"])("h3", null, title), Object(external_preact_["h"])("p", null, description));
-};
-/* harmony default export */ var home = (home_Home);
 // CONCATENATED MODULE: ../node_modules/preact/hooks/dist/hooks.module.js
 
 var t,
@@ -421,6 +302,125 @@ function D(n, t) {
   return "function" == typeof t ? t(n) : t;
 }
 
+// EXTERNAL MODULE: ../node_modules/preact-router/match.js
+var match = __webpack_require__("ox/y");
+
+// CONCATENATED MODULE: ./components/header/style.css
+// extracted by mini-css-extract-plugin
+/* harmony default export */ var style = ({"header":"header__OVZyn","logoContainer":"logoContainer__ltY64","logoText":"logoText__WMBBB","active":"active__r+Z6z"});
+// CONCATENATED MODULE: ./components/header/index.js
+
+
+
+var header_Header = function Header() {
+  return Object(external_preact_["h"])("header", {
+    class: style.header
+  }, Object(external_preact_["h"])("div", {
+    class: style.logoContainer
+  }, Object(external_preact_["h"])("h1", {
+    class: style.logoText
+  }, "Diana Pamela Moya Osorio")), Object(external_preact_["h"])("nav", null, Object(external_preact_["h"])(match["Link"], {
+    activeClassName: style.active,
+    href: "/"
+  }, "Home"), Object(external_preact_["h"])(match["Link"], {
+    activeClassName: style.active,
+    href: "/research"
+  }, "Research"), Object(external_preact_["h"])(match["Link"], {
+    activeClassName: style.active,
+    href: "/publications"
+  }, "Publications"), Object(external_preact_["h"])(match["Link"], {
+    activeClassName: style.active,
+    href: "/teaching"
+  }, "Teaching"), Object(external_preact_["h"])(match["Link"], {
+    activeClassName: style.active,
+    href: "/contact"
+  }, "Contact")));
+};
+/* harmony default export */ var header = (header_Header);
+// CONCATENATED MODULE: ./routes/home/style.css
+// extracted by mini-css-extract-plugin
+/* harmony default export */ var home_style = ({"home":"home__uRcqa","main":"main__rhUV2","intro":"intro__AU9Zf","profileSection":"profileSection__jVCDF","profilePicture":"profilePicture__stP5f","profileButtons":"profileButtons__VOEqg","roundButton":"roundButton__kjhuK","buttonIcon":"buttonIcon__VG9YD","buttonText":"buttonText__G4ICD","introText":"introText__TFNqb","highlights":"highlights__EC3cF","highlightWrapper":"highlightWrapper__wK8EA","highlightGrid":"highlightGrid__ZuWHM","highlight":"highlight__Fzp3P","highlightImage":"highlightImage__c7oDY","footer":"footer__S9HD3"});
+// CONCATENATED MODULE: ./routes/home/index.js
+
+
+var home_Home = function Home() {
+  return Object(external_preact_["h"])("div", {
+    class: home_style.home
+  }, Object(external_preact_["h"])("main", {
+    class: home_style.main
+  }, Object(external_preact_["h"])("section", {
+    class: home_style.intro
+  }, Object(external_preact_["h"])("div", {
+    class: home_style.profileSection
+  }, Object(external_preact_["h"])("img", {
+    src: "/assets/Diana6Gflagship.jpg",
+    alt: "Diana Moya",
+    class: home_style.profilePicture
+  }), Object(external_preact_["h"])("div", {
+    class: home_style.profileButtons
+  }, Object(external_preact_["h"])("a", {
+    href: "https://www.google.com/url?q=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fdiana-pamela-moya-osorio-508a9b172&sa=D&sntz=1&usg=AOvVaw0KFpAfx4GYVNrYhr4Y0VYo",
+    class: home_style.roundButton,
+    "aria-label": "LinkedIn"
+  }, Object(external_preact_["h"])("img", {
+    src: "/assets/LI-In-Bug.png?height=24&width=24",
+    alt: "LinkedIn",
+    class: home_style.buttonIcon
+  })), Object(external_preact_["h"])("a", {
+    href: "https://scholar.google.ch/citations?hl=de&user=RgcMUu4AAAAJ&view_op=list_works&sortby=pubdate",
+    class: home_style.roundButton,
+    "aria-label": "Google Scholar"
+  }, Object(external_preact_["h"])("img", {
+    src: "/assets/Scholar_logo.svg?height=24&width=24",
+    alt: "Google Scholar",
+    class: home_style.buttonIcon
+  })), Object(external_preact_["h"])("a", {
+    href: "https://elliit.se/wp-content/uploads/2023/11/ELLIIT_Recruited_Faculty_catalogue_Diana_MoyaOsorio.pdf",
+    class: home_style.roundButton,
+    "aria-label": "Elliit"
+  }, Object(external_preact_["h"])("img", {
+    src: "/assets/Untitled.png?height=24&width=24",
+    alt: "Elliit",
+    class: home_style.buttonIcon
+  })))), Object(external_preact_["h"])("div", {
+    class: home_style.introText
+  }, Object(external_preact_["h"])("h1", null, "Diana Pamela Moya Osorio"), Object(external_preact_["h"])("h2", null, "Associate Professor, Link\xF6ping University"), Object(external_preact_["h"])("p", null, "Diana Pamela Moya Osorio is currently Associate Professor at the Communication Systems Division, Department of Electrical Engineering, Link\xF6ping University, Sweden, and an ELLIIT recruited faculty. Previously, she was Senior Research Fellow and Adjunct Professor at the Centre for Wireless Communications, University of Oulu, Finland. She received the B.Sc. degree in electronics and telecommunications engineering from the Armed Forces University, Ecuador, in 2008, and the M.Sc. and D.Sc. degrees in electrical engineering with emphasis on telecommunications and telematics from the University of Campinas, Brazil, in 2011 and 2015, respectively. From 2015 to 2022, she was an Assistant Professor with the Department of Electrical Engineering, Federal University of S\xE3o Carlos, Brazil. From 2020 to 2023, she was also a Postdoctoral Researcher for the Academy of Finland. She has served as TPC and reviewer for several journals and conferences. Currently, she is Associate Editor of IEEE Wireless Communications Letters, IEEE Communication Letters, and IEEE Transactions on Information Forensics & Security. She also serves as working group leader for Trustworthy 6G at the Cost Action 6G-PHYSEC. Her research interests include wireless communications in general, signal processing for wireless communications, physical layer security, and integrated sensing and communications."))), Object(external_preact_["h"])("section", {
+    class: home_style.highlights
+  }, Object(external_preact_["h"])("h2", null, "Research Highlights"), Object(external_preact_["h"])("div", {
+    class: home_style.highlightWrapper
+  }, Object(external_preact_["h"])("div", {
+    class: home_style.highlightGrid
+  }, Object(external_preact_["h"])(home_ResearchHighlight, {
+    title: "Physical layer security and privacy (PLS)",
+    description: "Physical Layer Security is a security approach that operates directly on wireless signals, leveraging the unique characteristics of the propagation channel and hardware as sources of entropy to ensure confidentiality, integrity, and authentication.",
+    imageUrl: "/assets/pls.jpg",
+    link: "https://liu.se/en/research/physical-layer-security-in-massive-mimo"
+  }), Object(external_preact_["h"])(home_ResearchHighlight, {
+    title: "Integrated Sensing and Communications (ISAC)",
+    description: "One of the most promising features that will be integral part of the next generation of wireless mobile networks, 6G, is the integration of sensing functionality.",
+    imageUrl: "/assets/isac.jpg",
+    link: "https://liu.se/en/research/isac"
+  }))))), Object(external_preact_["h"])("footer", {
+    class: home_style.footer
+  }, Object(external_preact_["h"])("p", null, "\xA9 2025 Diana Moya. All rights reserved.")));
+};
+var home_ResearchHighlight = function ResearchHighlight(_ref) {
+  var title = _ref.title,
+    description = _ref.description,
+    imageUrl = _ref.imageUrl,
+    link = _ref.link;
+  return Object(external_preact_["h"])("a", {
+    href: link,
+    class: home_style.highlight,
+    target: "_blank",
+    rel: "noopener noreferrer"
+  }, Object(external_preact_["h"])("img", {
+    src: imageUrl,
+    alt: title,
+    class: home_style.highlightImage
+  }), Object(external_preact_["h"])("h3", null, title), Object(external_preact_["h"])("p", null, description));
+};
+/* harmony default export */ var home = (home_Home);
 // CONCATENATED MODULE: ./routes/research/style.css
 // extracted by mini-css-extract-plugin
 /* harmony default export */ var research_style = ({"research":"research__oSkHo","tabs":"tabs__Pn7Jz","active":"active__I-Eu6","content":"content__GjZDW"});
@@ -801,6 +801,13 @@ var admin_Admin = function Admin() {
 };
 /* harmony default export */ var admin = (admin_Admin);
 // CONCATENATED MODULE: ./components/app.js
+function app_slicedToArray(r, e) { return app_arrayWithHoles(r) || app_iterableToArrayLimit(r, e) || app_unsupportedIterableToArray(r, e) || app_nonIterableRest(); }
+function app_nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+function app_unsupportedIterableToArray(r, a) { if (r) { if ("string" == typeof r) return app_arrayLikeToArray(r, a); var t = {}.toString.call(r).slice(8, -1); return "Object" === t && r.constructor && (t = r.constructor.name), "Map" === t || "Set" === t ? Array.from(r) : "Arguments" === t || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t) ? app_arrayLikeToArray(r, a) : void 0; } }
+function app_arrayLikeToArray(r, a) { (null == a || a > r.length) && (a = r.length); for (var e = 0, n = Array(a); e < a; e++) n[e] = r[e]; return n; }
+function app_iterableToArrayLimit(r, l) { var t = null == r ? null : "undefined" != typeof Symbol && r[Symbol.iterator] || r["@@iterator"]; if (null != t) { var e, n, i, u, a = [], f = !0, o = !1; try { if (i = (t = t.call(r)).next, 0 === l) { if (Object(t) !== t) return; f = !1; } else for (; !(f = (e = i.call(t)).done) && (a.push(e.value), a.length !== l); f = !0); } catch (r) { o = !0, n = r; } finally { try { if (!f && null != t.return && (u = t.return(), Object(u) !== u)) return; } finally { if (o) throw n; } } return a; } }
+function app_arrayWithHoles(r) { if (Array.isArray(r)) return r; }
+
 
 
 
@@ -811,20 +818,29 @@ var admin_Admin = function Admin() {
 
 
 var app_App = function App() {
+  var _useState = h(""),
+    _useState2 = app_slicedToArray(_useState, 2),
+    basePath = _useState2[0],
+    setBasePath = _useState2[1];
+  y(function () {
+    // Check if we're running on GitHub Pages
+    var isGitHubPages = window.location.hostname.includes("github.io");
+    setBasePath(isGitHubPages ? "/dianamoyaosorio.github.io" : "");
+  }, []);
   return Object(external_preact_["h"])("div", {
     id: "app"
   }, Object(external_preact_["h"])(header, null), Object(external_preact_["h"])("main", null, Object(external_preact_["h"])(preact_router_es["Router"], null, Object(external_preact_["h"])(home, {
-    path: "/"
+    path: "".concat(basePath, "/")
   }), Object(external_preact_["h"])(research, {
-    path: "/research"
+    path: "".concat(basePath, "/research")
   }), Object(external_preact_["h"])(routes_publications, {
-    path: "/publications"
+    path: "".concat(basePath, "/publications")
   }), Object(external_preact_["h"])(teaching, {
-    path: "/teaching"
+    path: "".concat(basePath, "/teaching")
   }), Object(external_preact_["h"])(contact, {
-    path: "/contact"
+    path: "".concat(basePath, "/contact")
   }), Object(external_preact_["h"])(admin, {
-    path: "/adm"
+    path: "".concat(basePath, "/adm")
   }))));
 };
 /* harmony default export */ var app = (app_App);
@@ -836,7 +852,7 @@ var app_App = function App() {
 
 
 if (typeof window !== "undefined") {
-  Object(external_preact_["render"])(Object(external_preact_["h"])(app, null), document.body);
+  Object(external_preact_["render"])(Object(external_preact_["h"])(app, null), document.getElementById("app") || document.body);
 }
 
 /***/ }),
