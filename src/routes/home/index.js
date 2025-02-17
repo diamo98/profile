@@ -12,7 +12,7 @@ const Home = () => {
             <img src={`${basePath}/assets/Diana6Gflagship.jpg`} alt="Diana Moya" class={style.profilePicture} />
             <div class={style.profileButtons}>
               <a
-                href="https://www.linkedin.com/in/diana-pamela-moya-osorio-508a9b172"
+                href="https://www.linkedin.com/in/diana-moya-osorio/"
                 class={style.roundButton}
                 aria-label="LinkedIn"
               >
@@ -23,7 +23,7 @@ const Home = () => {
                 class={style.roundButton}
                 aria-label="Google Scholar"
               >
-                <img src={`${basePath}/assets/Scholar_logo.svg`} alt="Google Scholar" class={style.buttonIcon} />
+                <img src={`${basePath}/assets/Scholar_logo.png`} alt="Google Scholar" class={style.buttonIcon} />
               </a>
               <a
                 href="https://elliit.se/wp-content/uploads/2023/11/ELLIIT_Recruited_Faculty_catalogue_Diana_MoyaOsorio.pdf"
