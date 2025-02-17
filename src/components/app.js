@@ -15,7 +15,7 @@ const App = () => {
 
   useEffect(() => {
     const isGitHubPages = window.location.hostname.includes("github.io")
-    setBasePath(isGitHubPages ? "/dianamoyaosorio.github.io" : "")
+    setBasePath(isGitHubPages ? "/profile" : "")
   }, [])
 
   return (
