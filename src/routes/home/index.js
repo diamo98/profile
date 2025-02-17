@@ -2,7 +2,7 @@ import { h } from "preact"
 import style from "./style.css"
 
 const Home = () => {
-  const basePath = window.location.hostname.includes("github.io") ? "/dianamoyaosorio.github.io" : ""
+  const basePath = window.location.hostname.includes("github.io") ? "/profile" : ""
 
   return (
     <div class={style.home}>
