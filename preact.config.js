@@ -1,7 +1,7 @@
 export default {
   webpack(config, env, helpers, options) {
     if (env.production) {
-      config.output.publicPath = "/dianamoyaosorio.github.io/"
+      config.output.publicPath = "/profile/"
     }
   },
   plugins: [

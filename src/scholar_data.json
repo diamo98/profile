@@ -2,9 +2,17 @@
   "name": "Diana Moya Osorio",
   "affiliation": "Associate Professor at Link�ping University",
   "hIndex": "19",
-  "i10Index": "25",
-  "citations": "1774",
+  "i10Index": "27",
+  "citations": "1830",
   "articles": [
+    {
+      "title": "Disruptive Technological Directions for 6G Security",
+      "authors": "I Ahmad, J Suomalainen, S Shahabuddin, P Porambage, A Karinsalo, ...",
+      "publication": "2024 IEEE Conference on Standards for Communications and Networking (CSCN�…, 2024",
+      "year": "2024",
+      "citations": "",
+      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:BrmTIyaxlBUC"
+    },
     {
       "title": "Secure mmWave MIMO Networks Employing Hybrid Active-Passive RIS",
       "authors": "EN Egashira, DPM Osorio, NT Nguyen, M Juntti",
@@ -70,11 +78,11 @@
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:5Ul4iDaHHb8C"
     },
     {
-      "title": "Access Point Selection for Bistatic Backscatter Communication in Cell-Free MIMO",
+      "title": "Access point selection for bistatic backscatter communication in cell-free MIMO",
       "authors": "A Kaplan, DPM Osorio, EG Larsson",
       "publication": "ICC 2024-IEEE International Conference on Communications, 3214-3219, 2024",
       "year": "2024",
-      "citations": "1",
+      "citations": "2",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:geHnlv5EZngC"
     },
     {
@@ -114,7 +122,7 @@
       "authors": "JD Vega-S�nchez, AE L�pez-Ram�rez, L Urquiza-Aguiar, DPM Osorio",
       "publication": "IEEE Wireless Communications Letters, 2023",
       "year": "2023",
-      "citations": "24",
+      "citations": "25",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:Tiz5es2fbqcC"
     },
     {
@@ -122,7 +130,7 @@
       "authors": "JD Vega-S�nchez, L Urquiza-Aguiar, MCP Paredes, DPM Osorio",
       "publication": "IEEE Wireless Communications Letters, 2023",
       "year": "2023",
-      "citations": "16",
+      "citations": "17",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:XiSMed-E-HIC"
     },
     {
@@ -178,7 +186,7 @@
       "authors": "XAF Cabezas, DPM Osorio, M Juntti",
       "publication": "IEEE Transactions on Vehicular Technology, 2023",
       "year": "2023",
-      "citations": "6",
+      "citations": "7",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:SP6oXDckpogC"
     },
     {
@@ -210,7 +218,7 @@
       "authors": "AK I. Kilanioti, G. Rizzo, B. M. Masini, A. Bazzi, D. P. M. Osorio, F ...",
       "publication": "IEEE Conference on Standards for Communications and Networking (CSCN), 2022",
       "year": "2022",
-      "citations": "9",
+      "citations": "12",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:NhqRSupF_l8C"
     },
     {
@@ -242,7 +250,7 @@
       "authors": "EN Egashira, DPM Osorio, EEB Olivo",
       "publication": "IEEE Transactions on Vehicular Technology 71 (6), 6859-6863, 2022",
       "year": "2022",
-      "citations": "2",
+      "citations": "3",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -258,7 +266,7 @@
       "authors": "DPM Osorio, I Ahmad, JDV S�nchez, A Gurtov, J Scholliers, M Kutila, ...",
       "publication": "IEEE Open Journal of the Communications Society, 2022",
       "year": "2022",
-      "citations": "122",
+      "citations": "131",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -274,7 +282,7 @@
       "authors": "DDP Mucin, DPM Osorio, EEB Olivo",
       "publication": "IEEE Open Journal of the Communications Society 2, 2205-2218, 2021",
       "year": "2021",
-      "citations": "19",
+      "citations": "20",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:M05iB0D1s5AC"
     },
     {
@@ -322,7 +330,7 @@
       "authors": "NH Mahmood, S B�cker, I Moerman, OA L�pez, A Munari, K Mikhaylov, ...",
       "publication": "EURASIP Journal on Wireless Communications and Networking 2021 (1), 134, 2021",
       "year": "2021",
-      "citations": "94",
+      "citations": "98",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:ldfaerwXgEUC"
     },
     {
@@ -330,7 +338,7 @@
       "authors": "P Porambage, G G�r, DPM Osorio, M Livanage, M Ylianttila",
       "publication": "2021 Joint European Conference on Networks and Communications & 6G Summit�…, 2021",
       "year": "2021",
-      "citations": "144",
+      "citations": "148",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:GnPB-g6toBAC"
     },
     {
@@ -338,7 +346,7 @@
       "authors": "JDV S�nchez, DPM Osorio, FJ L�pez-Mart�nez, MCP Paredes, ...",
       "publication": "IEEE Transactions on Vehicular Technology 70 (7), 6302-6318, 2021",
       "year": "2021",
-      "citations": "26*",
+      "citations": "27*",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:RGFaLdJalmkC"
     },
     {
@@ -346,7 +354,7 @@
       "authors": "XAF Cabezas, DPM Osorio, M Latva-aho",
       "publication": "2021 Joint EuCNC & 6GSummit (Best Student Paper Award), 2021",
       "year": "2021",
-      "citations": "10",
+      "citations": "11",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -354,7 +362,7 @@
       "authors": "P Porambage, G G�r, DPM Osorio, M Liyanage, A Gurtov, M Ylianttila",
       "publication": "IEEE Open Journal of the Communications Society 2, 1094-1122, 2021",
       "year": "2021",
-      "citations": "328",
+      "citations": "347",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -362,7 +370,7 @@
       "authors": "JDV S�nchez, L Urquiza-Aguiar, MCP Paredes, DPM Osorio",
       "publication": "Annals of Telecommunications 76 (3), 155-174, 2021",
       "year": "2021",
-      "citations": "76",
+      "citations": "79",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:blknAaTinKkC"
     },
     {
@@ -402,7 +410,7 @@
       "authors": "NH Mahmood, H Alves, OA L�pez, M Shehab, DPM Osorio, M Latva-Aho",
       "publication": "2020 2nd 6G Wireless Summit (6G SUMMIT), 1-5, 2020",
       "year": "2020",
-      "citations": "262",
+      "citations": "264",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:u_35RYKgDlwC"
     },
     {
@@ -434,7 +442,7 @@
       "authors": "DP Moya Osorio, JD Vega S�nchez, H Alves",
       "publication": "Wiley 5G Ref: The Essential 5G Reference Online, 2019",
       "year": "2019",
-      "citations": "31",
+      "citations": "32",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:_Qo2XoVZTnwC"
     },
     {
@@ -450,7 +458,7 @@
       "authors": "A Tregancini, EEB Olivo, DPM Osorio, CHM De Lima, H Alves",
       "publication": "IEEE Transactions on Vehicular Technology 69 (1), 622-635, 2019",
       "year": "2019",
-      "citations": "69",
+      "citations": "70",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -554,7 +562,7 @@
       "authors": "GMD Santana, RS Cristo, C Dezan, JP Diguet, DPM Osorio, KR Branco",
       "publication": "2018 International Conference on Unmanned Aircraft Systems (ICUAS), 760-768, 2018",
       "year": "2018",
-      "citations": "49",
+      "citations": "50",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -602,7 +610,7 @@
       "authors": "DPM Osorio, EEB Olivo, H Alves, JCS Santos Filho, M Latva-aho",
       "publication": "IEEE Transactions on Communications 65 (1), 66-78, 2016",
       "year": "2016",
-      "citations": "16",
+      "citations": "17",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:0EnyYjriUFMC"
     },
     {
@@ -766,5 +774,5 @@
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:yD5IFk8b50cC"
     }
   ],
-  "lastUpdated": "2025-01-24T23:17:08.897Z"
+  "lastUpdated": "2025-02-17T21:03:10.742Z"
 }
