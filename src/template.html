@@ -1,17 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="icon" href="./assets/icons/liu.png" type="image/png" sizes="32x32">
-    <link rel="icon" href="./assets/icons/liu.png" type="image/png" sizes="16x16">
-    <link rel="apple-touch-icon" href="./assets/icons/liu.png">
-    <link rel="shortcut icon" href="./assets/icons/liu.png" type="image/png">
-</head>
-<body>
-
-</body>
+	<head>
+		<meta charset="utf-8">
+		<title><% preact.title %></title>
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<link rel="icon" href="/assets/icons/liu.png" type="image/png" sizes="32x32">
+		<link rel="icon" href="/assets/icons/liu.png" type="image/png" sizes="16x16">
+		<link rel="apple-touch-icon" href="/assets/icons/liu.png">
+		<link rel="shortcut icon" href="/assets/icons/liu.png" type="image/png">
+		<link rel="manifest" href="<%= htmlWebpackPlugin.files.publicPath %>manifest.json">
+		<% preact.headEnd %>
+	</head>
+	<body>
+		<% preact.bodyEnd %>
+	</body>
 </html>
 
 
