@@ -376,7 +376,7 @@ var header_Header = function Header(_ref) {
 
 
 var home_Home = function Home() {
-  var basePath = window.location.hostname.includes("github.io") ? "/dianamoyaosorio.github.io" : "";
+  var basePath = window.location.hostname.includes("github.io") ? "/profile" : "";
   return Object(external_preact_["h"])("div", {
     class: home_style.home
   }, Object(external_preact_["h"])("main", {
