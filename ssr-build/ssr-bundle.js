@@ -392,7 +392,7 @@ var home_Home = function Home() {
   }), Object(external_preact_["h"])("div", {
     class: home_style.profileButtons
   }, Object(external_preact_["h"])("a", {
-    href: "https://www.linkedin.com/in/diana-pamela-moya-osorio-508a9b172",
+    href: "https://www.linkedin.com/in/diana-moya-osorio/",
     class: home_style.roundButton,
     "aria-label": "LinkedIn"
   }, Object(external_preact_["h"])("img", {
@@ -404,7 +404,7 @@ var home_Home = function Home() {
     class: home_style.roundButton,
     "aria-label": "Google Scholar"
   }, Object(external_preact_["h"])("img", {
-    src: "".concat(basePath, "/assets/Scholar_logo.svg"),
+    src: "".concat(basePath, "/assets/Scholar_logo.png"),
     alt: "Google Scholar",
     class: home_style.buttonIcon
   })), Object(external_preact_["h"])("a", {

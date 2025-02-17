@@ -1075,10 +1075,10 @@
 
 
 :root {
-	--background: #ffffff;
-	--text: #333333;
-	--primary: #007bff;
-	--secondary: #6c757d;
+	--background: #1a1a1a;
+	--text: #f0f0f0;;
+	--primary: #4da8ff;
+	--secondary: #a1a1a1;
 	--accent: #28a745;
 	--border: #dee2e6;
   }
@@ -1089,8 +1089,8 @@
 	  --text: #f0f0f0;
 	  --primary: #4da8ff;
 	  --secondary: #a1a1a1;
-	  --accent: #4cd964;
-	  --border: #4a4a4a;
+	  --accent: #28a745;
+	  --border: #dee2e6;
 	}
   }
   
@@ -1134,4 +1134,4 @@
   
 
 
-/*# sourceMappingURL=ssr-bundle.ce909.css.map*/
+/*# sourceMappingURL=ssr-bundle.7085e.css.map*/
