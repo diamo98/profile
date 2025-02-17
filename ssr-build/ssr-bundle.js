@@ -973,7 +973,7 @@ var app_App = function App() {
     setBasePath = _useState2[1];
   y(function () {
     var isGitHubPages = window.location.hostname.includes("github.io");
-    setBasePath(isGitHubPages ? "/dianamoyaosorio.github.io" : "");
+    setBasePath(isGitHubPages ? "/profile" : "");
   }, []);
   return Object(external_preact_["h"])("div", {
     id: "app"
