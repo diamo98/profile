@@ -2,9 +2,57 @@
   "name": "Diana Moya Osorio",
   "affiliation": "Associate Professor at Link�ping University",
   "hIndex": "19",
-  "i10Index": "27",
-  "citations": "1830",
+  "i10Index": "29",
+  "citations": "1963",
   "articles": [
+    {
+      "title": "The Rise of Networked ISAC: Emerging Aspects and Challenges",
+      "authors": "DPM Osorio, B Barua, KL Besser, H Blue, P Dass, P Porambage",
+      "publication": "IEEE Open Journal of the Communications Society, 2025",
+      "year": "2025",
+      "citations": "",
+      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:bnK-pcrLprsC"
+    },
+    {
+      "title": "Delving Into Security and Privacy of Joint Communication and Sensing: A Survey",
+      "authors": "�G Martins, H �kesson, M Gomes, DPM Osorio, P Sen, JP Vilela",
+      "publication": "IEEE Open Journal of the Communications Society, 2025",
+      "year": "2025",
+      "citations": "",
+      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:5ugPr518TE4C"
+    },
+    {
+      "title": "A Tractable Approximation for Evaluating the Performance of Slow Fluid Antenna Multiple Access",
+      "authors": "JD Vega-Sanchez, HRC Mora, NVO Garz�n, DPM Osorio",
+      "publication": "IEEE Open Journal of the Communications Society, 2025",
+      "year": "2025",
+      "citations": "",
+      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:J-pR_7NvFogC"
+    },
+    {
+      "title": "Utilizing 5G NR SSB Blocks for Passive Detection and Localization of Low-Altitude Drones",
+      "authors": "P Jopanya, DPM Osorio",
+      "publication": "arXiv preprint arXiv:2504.02641, 2025",
+      "year": "2025",
+      "citations": "",
+      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:1qzjygNMrQYC"
+    },
+    {
+      "title": "Impact of Network-Controlled Repeaters in Integrated Sensing and Communication Systems",
+      "authors": "H �kesson, DPM Osorio, EG Larsson",
+      "publication": "arXiv preprint arXiv:2503.20617, 2025",
+      "year": "2025",
+      "citations": "",
+      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:V3AGJWp-ZtQC"
+    },
+    {
+      "title": "Impact of Network-Controlled Repeaters in Integrated Sensing and Communication Systems",
+      "authors": "DPM Osorio, EG Larsson",
+      "publication": "arXiv e-prints, arXiv: 2503.20617, 2025",
+      "year": "2025",
+      "citations": "",
+      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:wbdj-CoPYUoC"
+    },
     {
       "title": "Disruptive Technological Directions for 6G Security",
       "authors": "I Ahmad, J Suomalainen, S Shahabuddin, P Porambage, A Karinsalo, ...",
@@ -26,7 +74,7 @@
       "authors": "H �kesson, DPM Osorio",
       "publication": "arXiv preprint arXiv:2409.12874, 2024",
       "year": "2024",
-      "citations": "",
+      "citations": "2",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:fQNAKQ3IYiAC"
     },
     {
@@ -42,7 +90,7 @@
       "authors": "D Kong, DPM Osorio, EG Larsson",
       "publication": "2024 IEEE 25th International Workshop on Signal Processing Advances in�…, 2024",
       "year": "2024",
-      "citations": "",
+      "citations": "1",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:eJXPG6dFmWUC"
     },
     {
@@ -50,7 +98,7 @@
       "authors": "NO Garz�n, HC Mora, F Almeida, J Vega, D Moya",
       "publication": "IEEE Communications Letters, 2024",
       "year": "2024",
-      "citations": "",
+      "citations": "2",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:VOx2b1Wkg3QC"
     },
     {
@@ -58,7 +106,7 @@
       "authors": "IWG Da Silva, EEB Olivo, M Katz, DPM Osorio",
       "publication": "IEEE Sensors Journal, 2024",
       "year": "2024",
-      "citations": "1",
+      "citations": "4",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:LPZeul_q3PIC"
     },
     {
@@ -82,15 +130,15 @@
       "authors": "A Kaplan, DPM Osorio, EG Larsson",
       "publication": "ICC 2024-IEEE International Conference on Communications, 3214-3219, 2024",
       "year": "2024",
-      "citations": "2",
+      "citations": "3",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:geHnlv5EZngC"
     },
     {
-      "title": "Strategic Deployment of Swarm of UAVs for Secure IoT Networks",
+      "title": "Strategic deployment of swarm of UAVs for secure IoT networks",
       "authors": "XAF Cabezas, DPM Osorio",
-      "publication": "IEEE Transactions on Aerospace and Electronic Systems, 2024",
+      "publication": "IEEE Transactions on Aerospace and Electronic Systems 60 (5), 6517-6530, 2024",
       "year": "2024",
-      "citations": "1",
+      "citations": "3",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:OU6Ihb5iCvQC"
     },
     {
@@ -98,15 +146,15 @@
       "authors": "XAF Cabezas, DPM Osorio, M Juntti",
       "publication": "2024 IEEE Wireless Communications and Networking Conference (WCNC), 1-6, 2024",
       "year": "2024",
-      "citations": "3*",
+      "citations": "4*",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:B3FOqHPlNUQC"
     },
     {
-      "title": "Fluid Antenna System: Secrecy Outage Probability Analysis",
-      "authors": "JD Vega-S�nchez, L Urquiza-Aguiar, HRC Mora, NVO Garz�n, ...",
-      "publication": "IEEE Transactions on Vehicular Technology, 2024",
+      "title": "Fluid antenna system: Secrecy outage probability analysis",
+      "authors": "JD Vega-S�nchez, LF Urquiza-Aguiar, HRC Mora, NVO Garz�n, ...",
+      "publication": "IEEE Transactions on Vehicular Technology 73 (8), 11458-11469, 2024",
       "year": "2024",
-      "citations": "9",
+      "citations": "14",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:tS2w5q8j5-wC"
     },
     {
@@ -114,39 +162,31 @@
       "authors": "VRF Guijarro, JDV S�nchez, MCP Paredes, FG Ar�valo, DPM Osorio",
       "publication": "IEEE Access 12, 5708-5730, 2024",
       "year": "2024",
-      "citations": "5",
+      "citations": "9",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:tOudhMTPpwUC"
     },
     {
       "title": "Novel expressions for the outage probability and diversity gains in fluid antenna system",
       "authors": "JD Vega-S�nchez, AE L�pez-Ram�rez, L Urquiza-Aguiar, DPM Osorio",
-      "publication": "IEEE Wireless Communications Letters, 2023",
+      "publication": "IEEE Wireless Communications Letters 13 (2), 372-376, 2023",
       "year": "2023",
-      "citations": "25",
+      "citations": "32",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:Tiz5es2fbqcC"
     },
     {
-      "title": "A simple method for the performance analysis of fluid antenna systems under correlated Nakagami-m fading",
+      "title": "A Simple Method for the Performance Analysis of Fluid Antenna Systems Under Correlated Nakagami-m Fading",
       "authors": "JD Vega-S�nchez, L Urquiza-Aguiar, MCP Paredes, DPM Osorio",
-      "publication": "IEEE Wireless Communications Letters, 2023",
+      "publication": "IEEE Wireless Communications Letters 13 (2), 377-381, 2023",
       "year": "2023",
-      "citations": "17",
+      "citations": "23",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:XiSMed-E-HIC"
-    },
-    {
-      "title": "VLC Systems",
-      "authors": "IWG da Silva, EEB Olivo, M Katz, DPM Osorio",
-      "publication": "Authorea Preprints, 2023",
-      "year": "2023",
-      "citations": "",
-      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:4fKUyHm3Qg0C"
     },
     {
       "title": "6G Security Vision-A Concise Update",
       "authors": "G G�r, P Porambage, DM Osorio, AA Yavuz, M Liyanage",
       "publication": "",
       "year": "2023",
-      "citations": "2",
+      "citations": "3",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:u9iWguZQMMsC"
     },
     {
@@ -154,7 +194,7 @@
       "authors": "IWG da Silva, DPM Osorio, M Juntti",
       "publication": "Globecom workshops 2023, 2023",
       "year": "2023",
-      "citations": "9",
+      "citations": "13",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:p2g8aNsByqUC"
     },
     {
@@ -184,9 +224,9 @@
     {
       "title": "A multi-armed bandit framework for efficient UAV-based cooperative jamming coverage",
       "authors": "XAF Cabezas, DPM Osorio, M Juntti",
-      "publication": "IEEE Transactions on Vehicular Technology, 2023",
+      "publication": "IEEE Transactions on Vehicular Technology 72 (12), 16893-16898, 2023",
       "year": "2023",
-      "citations": "7",
+      "citations": "6",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:SP6oXDckpogC"
     },
     {
@@ -194,7 +234,7 @@
       "authors": "I Wanderley Gomes da Silva, EE Ben�tez Olivo, M Katz, DP Moya Osorio",
       "publication": "TechRxiv, 2023",
       "year": "2023",
-      "citations": "5",
+      "citations": "4",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -218,7 +258,7 @@
       "authors": "AK I. Kilanioti, G. Rizzo, B. M. Masini, A. Bazzi, D. P. M. Osorio, F ...",
       "publication": "IEEE Conference on Standards for Communications and Networking (CSCN), 2022",
       "year": "2022",
-      "citations": "12",
+      "citations": "15",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:NhqRSupF_l8C"
     },
     {
@@ -226,7 +266,7 @@
       "authors": "XA Flores Cabezas, DP Moya Osorio, M Latva-aho",
       "publication": "EURASIP Journal on Wireless Communications and Networking 2022 (1), 85, 2022",
       "year": "2022",
-      "citations": "7",
+      "citations": "6",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:SeFeTyx0c_EC"
     },
     {
@@ -242,7 +282,7 @@
       "authors": "EN Egashira, DPM Osorio, NT Nguyen, M Juntti",
       "publication": "2022 IEEE 95th Vehicular Technology Conference:(VTC2022-Spring), 1-6, 2022",
       "year": "2022",
-      "citations": "20",
+      "citations": "21",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:CHSYGLWDkRkC"
     },
     {
@@ -255,10 +295,10 @@
     },
     {
       "title": "Impact of self-energy recycling and cooperative jamming on SWIPT-based FD relay networks with secrecy constraints",
-      "authors": "IWG Da Silva, JDV Sanchez, EEB Olivo, DPM Osorio",
+      "authors": "IWG Da Silva, JDV S�nchez, EEB Olivo, DPM Osorio",
       "publication": "IEEE Access 10, 24132-24148, 2022",
       "year": "2022",
-      "citations": "12",
+      "citations": "14",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -266,7 +306,7 @@
       "authors": "DPM Osorio, I Ahmad, JDV S�nchez, A Gurtov, J Scholliers, M Kutila, ...",
       "publication": "IEEE Open Journal of the Communications Society, 2022",
       "year": "2022",
-      "citations": "131",
+      "citations": "147",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -282,7 +322,7 @@
       "authors": "DDP Mucin, DPM Osorio, EEB Olivo",
       "publication": "IEEE Open Journal of the Communications Society 2, 2205-2218, 2021",
       "year": "2021",
-      "citations": "20",
+      "citations": "24",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:M05iB0D1s5AC"
     },
     {
@@ -290,7 +330,7 @@
       "authors": "IWG da Silva, DPM Osorio, EEB Olivo, I Ahmed, M Katz",
       "publication": "17th International Symposium on Wireless Communication Systems, 2021",
       "year": "2021",
-      "citations": "7",
+      "citations": "8",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -306,8 +346,16 @@
       "authors": "XAF Cabezas, DPM Osorio, M Latva-aho",
       "publication": "IEEE International Symposium on Personal, Indoor and Mobile Radio Communications, 2021",
       "year": "2021",
-      "citations": "9",
+      "citations": "8",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:vV6vV6tmYwMC"
+    },
+    {
+      "title": "Physical layer security for 5G and beyond",
+      "authors": "DPM Osorio, JDV S�nchez, H Alves",
+      "publication": "The Wiley 5G REF: Security, 2021",
+      "year": "2021",
+      "citations": "1",
+      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:mvPsJ3kp5DgC"
     },
     {
       "title": "T�cnicas de Seguran�a na Camada F�sica para Sistemas de Comunica��o Moveis H�bridos RF/VLC",
@@ -318,19 +366,11 @@
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:J_g5lzvAfSwC"
     },
     {
-      "title": "Machine type communications",
-      "authors": "NH Mahmood, S B�cker, I Moerman, OA L�pez, A Munari, K Mikhaylov, ...",
-      "publication": "SPRINGER PUBLISHING COMPANY, 2021",
-      "year": "2021",
-      "citations": "8",
-      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:UxriW0iASnsC"
-    },
-    {
-      "title": "Machine type communications: key drivers and enablers towards the 6G era",
+      "title": "Machine type communications: Key drivers and enablers towards the 6G era",
       "authors": "NH Mahmood, S B�cker, I Moerman, OA L�pez, A Munari, K Mikhaylov, ...",
       "publication": "EURASIP Journal on Wireless Communications and Networking 2021 (1), 134, 2021",
       "year": "2021",
-      "citations": "98",
+      "citations": "102",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:ldfaerwXgEUC"
     },
     {
@@ -338,7 +378,7 @@
       "authors": "P Porambage, G G�r, DPM Osorio, M Livanage, M Ylianttila",
       "publication": "2021 Joint European Conference on Networks and Communications & 6G Summit�…, 2021",
       "year": "2021",
-      "citations": "148",
+      "citations": "161",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:GnPB-g6toBAC"
     },
     {
@@ -346,7 +386,7 @@
       "authors": "JDV S�nchez, DPM Osorio, FJ L�pez-Mart�nez, MCP Paredes, ...",
       "publication": "IEEE Transactions on Vehicular Technology 70 (7), 6302-6318, 2021",
       "year": "2021",
-      "citations": "27*",
+      "citations": "28*",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:RGFaLdJalmkC"
     },
     {
@@ -354,7 +394,7 @@
       "authors": "XAF Cabezas, DPM Osorio, M Latva-aho",
       "publication": "2021 Joint EuCNC & 6GSummit (Best Student Paper Award), 2021",
       "year": "2021",
-      "citations": "11",
+      "citations": "10",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -362,7 +402,7 @@
       "authors": "P Porambage, G G�r, DPM Osorio, M Liyanage, A Gurtov, M Ylianttila",
       "publication": "IEEE Open Journal of the Communications Society 2, 1094-1122, 2021",
       "year": "2021",
-      "citations": "347",
+      "citations": "384",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -370,7 +410,7 @@
       "authors": "JDV S�nchez, L Urquiza-Aguiar, MCP Paredes, DPM Osorio",
       "publication": "Annals of Telecommunications 76 (3), 155-174, 2021",
       "year": "2021",
-      "citations": "79",
+      "citations": "86",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:blknAaTinKkC"
     },
     {
@@ -390,7 +430,7 @@
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:NaGl4SEjCO4C"
     },
     {
-      "title": "Uso de geometria estoc�stica para analise e simula��o de redes de comunica��o sem fio multicelulares",
+      "title": "Uso de Geometria Estoc�stica para Analise e Simula��o de Redes de Comunica��o Sem Fio Multicelulares",
       "authors": "MK Tojeiro",
       "publication": "Universidade Federal de S�o Carlos, 2020",
       "year": "2020",
@@ -402,7 +442,7 @@
       "authors": "DPM Osorio, EEB Olivo, H Alves, M Latva-Aho",
       "publication": "IEEE Access 8, 101437-101447, 2020",
       "year": "2020",
-      "citations": "27",
+      "citations": "25",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:JV2RwH3_ST0C"
     },
     {
@@ -410,7 +450,7 @@
       "authors": "NH Mahmood, H Alves, OA L�pez, M Shehab, DPM Osorio, M Latva-Aho",
       "publication": "2020 2nd 6G Wireless Summit (6G SUMMIT), 1-5, 2020",
       "year": "2020",
-      "citations": "264",
+      "citations": "278",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:u_35RYKgDlwC"
     },
     {
@@ -458,7 +498,7 @@
       "authors": "A Tregancini, EEB Olivo, DPM Osorio, CHM De Lima, H Alves",
       "publication": "IEEE Transactions on Vehicular Technology 69 (1), 622-635, 2019",
       "year": "2019",
-      "citations": "70",
+      "citations": "74",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -474,7 +514,7 @@
       "authors": "R La Scalea, M Rodrigues, DPM Osorio, CH Lima, RD Souza, H Alves, ...",
       "publication": "2019 16th International Symposium on Wireless Communication Systems (ISWCS�…, 2019",
       "year": "2019",
-      "citations": "25",
+      "citations": "24",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:dhFuZR0502QC"
     },
     {
@@ -562,7 +602,7 @@
       "authors": "GMD Santana, RS Cristo, C Dezan, JP Diguet, DPM Osorio, KR Branco",
       "publication": "2018 International Conference on Unmanned Aircraft Systems (ICUAS), 760-768, 2018",
       "year": "2018",
-      "citations": "50",
+      "citations": "51",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:KlAtU1dfN6UC"
     },
     {
@@ -682,7 +722,7 @@
       "authors": "EEB Olivo, DPM Osorio, DB da Costa, JCS Santos Filho",
       "publication": "2013 IEEE 24th Annual International Symposium on Personal, Indoor, and�…, 2013",
       "year": "2013",
-      "citations": "7*",
+      "citations": "8*",
       "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:HDshCWvjkbEC"
     },
     {
@@ -771,8 +811,8 @@
       "publication": "arXiv preprint arXiv:1903.05406, 0",
       "year": "",
       "citations": "7",
-      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:yD5IFk8b50cC"
+      "link": "https://scholar.google.com.br/citations?view_op=view_citation&hl=en&oe=ASCII&user=RgcMUu4AAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=RgcMUu4AAAAJ:yD5IFk8b50cC"
     }
   ],
-  "lastUpdated": "2025-02-17T21:03:10.742Z"
+  "lastUpdated": "2025-06-14T03:32:11.786Z"
 }
